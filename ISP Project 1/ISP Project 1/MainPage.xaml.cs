@@ -24,6 +24,7 @@ namespace ISP_Project_1
         public MainPage()
         {
             this.InitializeComponent();
+            
         }
 
         /// <summary>
